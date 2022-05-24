@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "strict": true
+    },
+    "include": ["src/**/*.d.ts", "src/**/*.ts"]
+}
